@@ -1,0 +1,11 @@
+Host localhost
+   StrictHostKeyChecking no
+
+Host 127.0.0.1
+   StrictHostKeyChecking no
+
+Host example*.com
+   StrictHostKeyChecking no
+
+Host 172.28.0.*
+   StrictHostKeyChecking no
